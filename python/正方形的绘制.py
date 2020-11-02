@@ -1,0 +1,13 @@
+from turtle import *
+setup(500,500)
+pensize(5)
+pencolor("blue")
+left(30)
+fd(50)
+left(90)
+fd(50)
+left(90)
+fd(50)
+left(90)
+fd(50)
+done()
